@@ -72,7 +72,7 @@ export const defaultInvitation: InvitationData = {
     venueTitle: "TIỆC CƯỚI SẼ ĐƯỢC TỔ CHỨC TẠI",
     venueName: "Nhà Văn hóa Thôn Vị Nhất",
     address: "Nhà số 2, Khu 4, Thôn Tiên Phong, Xã Quảng Oai, TP. Hà Nội",
-    mapQuery: "nhà văn hoá khu 7 thôn vị nhuế, Quảng Oai, Hà Nội, Việt Nam",
+    mapQuery: "5C9Q+R8M, Khu 4, Quảng Oai, Hà Nội, Việt Nam",
   },
   dressCode: {
     enabled: false,
