@@ -71,7 +71,7 @@ export const defaultInvitation: InvitationData = {
     lunarOverride: "Tức ngày 13 tháng 9 năm Bính Ngọ",
     venueTitle: "TIỆC CƯỚI SẼ ĐƯỢC TỔ CHỨC TẠI",
     venueName: "Nhà Văn hóa Thôn Vị Nhất",
-    address: "Khu 7, Thôn Tiên Phong, Xã Quảng Oai, TP. Hà Nội",
+    address: "Khu 4, Thôn Tiên Phong, Xã Quảng Oai, TP. Hà Nội",
     mapQuery: "nhà văn hoá khu 7 thôn vị nhuế, Quảng Oai, Hà Nội, Việt Nam",
   },
   dressCode: {
